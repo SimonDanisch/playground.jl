@@ -1,0 +1,10 @@
+*.jl.cov
+*.jl.mem
+*.db
+docs/videos
+docs/images
+*.webm
+*.jls
+*.nii
+*.bin
+*.gz
